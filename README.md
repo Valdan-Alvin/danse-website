@@ -1,4 +1,4 @@
-<p>A resposive and beatiful danse website</p>
+<p>A resposive and beautiful danse website</p>
 <img width="1862" height="889" alt="image" src="https://github.com/user-attachments/assets/fd3e0d2c-0593-4e43-bf93-83011a4f898a" />
 
 <p>About</p>
